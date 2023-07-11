@@ -1,0 +1,2 @@
+Data read from input.txt: NodeJs for better understanding at server side.. 
+ Date created Mon Jul 10 2023 16:43:39 GMT-0400 (Eastern Daylight Time)
